@@ -3,5 +3,13 @@ Repository for my master thesis in Simulation and Visualization. Topic for the t
 
 # Downloading the face datasets:
 
-## Test
-### Test
+### Raw
+link: https://drive.google.com/drive/folders/1s49x9G8sjG4J9Pf_cige29oxVQMYQxH7?usp=sharing
+
+### Filtered
+link: https://drive.google.com/drive/folders/1cLaivOMQTyiIMwHEjfVSH2DPHIjVAQIg?usp=sharing
+
+### Mosaic
+link: https://drive.google.com/drive/folders/1rLGF2lbyEXCLUN_q7s1CpYBBxfRqkcUS?usp=sharing
+
+
