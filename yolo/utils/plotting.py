@@ -62,6 +62,7 @@ class Annotator:
         self.lw = line_width or max(round(sum(im.shape) / 2 * 0.003), 2)  # line width
 
         #MODIFIED FOR ANANOYMIZATION
+        #If copying only this file, remove variable named "anon"
     def box_label(self,anon, box, label='', color=(128, 128, 128), txt_color=(255, 255, 255)):
         # Add one xyxy box to image with label
 
