@@ -27,4 +27,4 @@ link: https://drive.google.com/drive/folders/1VzH9JZpsCRbnvzxNnPV1Y-k8s8yX9GU0?u
 
 
 # Implementing anonymization in already existing YOLOv8 project
-In cases where YOLOv8, and ultralytics is already cloned to computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py to enable anonymization, with minimal modification. See plotting.py file for further instructions. . 
+In cases where YOLOv8, and ultralytics is already cloned to computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py to enable anonymization, with minimal modification. See plotting.py file for further instructions.
