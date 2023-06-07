@@ -15,3 +15,14 @@ link: https://drive.google.com/drive/folders/1cLaivOMQTyiIMwHEjfVSH2DPHIjVAQIg?u
 Approximitly 3000 images with mosaic augmentation applied on the filtered datasets. 
 link: https://drive.google.com/drive/folders/1rLGF2lbyEXCLUN_q7s1CpYBBxfRqkcUS?usp=sharing
 
+# Downloading the model weights:
+### Yolov8n
+link: https://drive.google.com/drive/folders/1K0kUAYTYzLtabShGXLVqRoQyxD6LA-2v?usp=sharing
+
+### Yolov8m
+link: https://drive.google.com/drive/folders/1Gei09x-x2t5xjVrTQv4VSWbpFrwvJ8gr?usp=sharing
+
+### Yolov8l
+link: https://drive.google.com/drive/folders/1VzH9JZpsCRbnvzxNnPV1Y-k8s8yX9GU0?usp=sharing
+
+
