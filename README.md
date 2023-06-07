@@ -4,12 +4,14 @@ Repository for my master thesis in Simulation and Visualization. Topic for the t
 # Downloading the face datasets:
 
 ### Raw
+Contains 5000 face images downloaded from Open Images V7. 
 link: https://drive.google.com/drive/folders/1s49x9G8sjG4J9Pf_cige29oxVQMYQxH7?usp=sharing
 
 ### Filtered
+Approximitly 3000 images remaining after a manual review of the raw datasets. All images downloaded from Open Images V7.
 link: https://drive.google.com/drive/folders/1cLaivOMQTyiIMwHEjfVSH2DPHIjVAQIg?usp=sharing
 
 ### Mosaic
+Approximitly 3000 images with mosaic augmentation applied on the filtered datasets. 
 link: https://drive.google.com/drive/folders/1rLGF2lbyEXCLUN_q7s1CpYBBxfRqkcUS?usp=sharing
-
 
