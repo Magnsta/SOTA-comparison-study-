@@ -1,5 +1,7 @@
 # SOTA-comparison-study-
 Repository for my master thesis in Simulation and Visualization. Topic for the thesis is, A Comparative Study of Face Anonymization Performance on Multiple Systems for Real-Time Object Detection. The following repository represents the files used. See the README file for additional information.
+# Preparing the environment
+For setting up the environment with all depending libriaries, please refer to https://github.com/ultralytics/ultralytics. 
 
 # Downloading the face datasets:
 
