@@ -30,6 +30,6 @@ link: https://drive.google.com/drive/folders/1VzH9JZpsCRbnvzxNnPV1Y-k8s8yX9GU0?u
 In cases where YOLOv8, and ultralytics is already cloned to computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py to enable anonymization, with minimal modification. See plotting.py file for further instructions.
 
 ### Anonymization
-(a) default standard YOLOv8, with setting anonymization=True the model applied a blur and random noise filter to the detected instances as shown in (c). The standard blur fliter without the additional random noise is shown in (b). 
+(a) default standard YOLOv8. Setting anonymization=True the model applies a blur and random noise filter to the detected instances as shown in (c). The standard blur fliter without the additional random noise is shown in (b). 
 ![anonymisert](https://github.com/Magnsta/SOTA-comparison-study-/assets/56515134/ce907823-ee66-4451-a3e3-510c5b20e291)
 
