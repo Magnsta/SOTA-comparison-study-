@@ -29,7 +29,7 @@ link: https://drive.google.com/drive/folders/1VzH9JZpsCRbnvzxNnPV1Y-k8s8yX9GU0?u
 
 
 # Implementing anonymization in already existing YOLOv8 project
-In cases where YOLOv8, and ultralytics is already cloned to computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py to enable anonymization, with minimal modification. See plotting.py file for further instructions.
+In cases where YOLOv8, and ultralytics is already cloned and running on a computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py to enable anonymization, with minimal modification. See plotting.py file for further instructions.
 
 ### Anonymization
 (a) default standard YOLOv8. Setting anonymization=True the model applies a blur and random noise filter to the detected instances as shown in (c). The standard blur fliter without the additional random noise is shown in (b). 
