@@ -1,7 +1,7 @@
 # SOTA-comparison-study-
 Repository for my master thesis in Simulation and Visualization. Topic for the thesis is, A Comparative Study of Face Anonymization Performance on Multiple Systems for Real-Time Object Detection. The following repository represents the files used. See the README file for additional information.
 # Preparing the environment
-For setting up the environment with all depending libriaries, please refer to https://github.com/ultralytics/ultralytics. 
+For setting up the environment with all depending libriaries, please refer to https://github.com/ultralytics/ultralytics for instructions. 
 
 # Downloading the face datasets:
 
@@ -17,7 +17,7 @@ link: https://drive.google.com/drive/folders/1cLaivOMQTyiIMwHEjfVSH2DPHIjVAQIg?u
 Approximitly 3000 images with mosaic augmentation applied on the filtered datasets. 
 link: https://drive.google.com/drive/folders/1rLGF2lbyEXCLUN_q7s1CpYBBxfRqkcUS?usp=sharing
 
-# Downloading the model weights:
+# Downloading the face model weights:
 ### Yolov8n
 link: https://drive.google.com/drive/folders/1K0kUAYTYzLtabShGXLVqRoQyxD6LA-2v?usp=sharing
 
@@ -29,7 +29,7 @@ link: https://drive.google.com/drive/folders/1VzH9JZpsCRbnvzxNnPV1Y-k8s8yX9GU0?u
 
 
 # Implementing anonymization in already existing YOLOv8 project
-In cases where YOLOv8, and ultralytics is already cloned and running on a computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py to enable anonymization, with minimal modification. See plotting.py file for further instructions.
+In cases where YOLOv8, and ultralytics is already cloned and running on a computer it is possible to only swap the plotting.py file found at yolo/utils/plotting.py and the cfg file found at to enable anonymization, with minimal modification. See plotting.py file for further instructions.
 
 ### Anonymization
 (a) default standard YOLOv8. Setting anonymization=True the model applies a blur and random noise filter to the detected instances as shown in (c). The standard blur fliter without the additional random noise is shown in (b). 
